@@ -1,0 +1,209 @@
+    1  sudo apt install code.deb
+    2  cd Desktop/
+    3  mkdir Programming
+    4  cd Programming/
+    5  code .
+    6  cd ../..
+    7  rm lol/
+    8  rm -rf lol/
+    9  reboot
+   10  clear
+   11  /usr/bin/python3 /home/smarty53/Desktop/Programming/lab.py
+   12  clear
+   13  ls
+   14  ls -la
+   15  chmod +x Anaconda3-2026.07-1-Linux-x86_64.sh 
+   16  ./Anaconda3-2026.07-1-Linux-x86_64.sh 
+   17  clear
+   18  ./Anaconda3-2026.07-1-Linux-x86_64.sh 
+   19  -u
+   20  cd ..
+   21  rm -rf anaconda3/
+   22  clear
+   23  cd Downloads/
+   24  ls
+   25  ./Anaconda3-2026.07-1-Linux-x86_64.sh 
+   26  anaconda-navigator
+   27  anaconda
+   28  jupyter notebook
+   29  anaconda navigator
+   30  jupyter notebook
+   31  reboot
+   32  /usr/bin/python3 /home/smarty53/Desktop/Programming/lab.py
+   33  cd
+   34  pwd
+   35  ls
+   36  clear
+   37  ls
+   38  ls -a
+   39  ls -l
+   40  clear
+   41  pwd
+   42  mkdir
+   43  mkdir coding-cafe
+   44  ls
+   45  cd coding-cafe
+   46  pwd
+   47  cd
+   48  pwd
+   49  ls
+   50  cd Desktop/
+   51  ls
+   52  cd coding cafe
+   53  clear
+   54  cd coding-cafe
+   55  mkdir coding-cafe
+   56  ls
+   57  cd..
+   58  cd ..
+   59  cd coding-cafe/
+   60  clear
+   61  cd ..
+   62  mkdir coding-cafe/week01
+   63  cd coding-cafe/
+   64  ls
+   65  mkdir week02
+   66  ls
+   67  cd week02
+   68  cd ../week01
+   69  cd ../week02
+   70  touch notes.md
+   71  ls
+   72  code notes.md
+   73  pwd
+   74  ls
+   75  ls -a
+   76  ls -l
+   77  clear
+   78  ls -l
+   79  clear
+   80  cd coding-cafe/
+   81  c ..
+   82  cd ..
+   83  ls
+   84  mkdir README.md
+   85  ls
+   86  pwd
+   87  cd week02
+   88  clear
+   89  cd coding-cafe/
+   90  pwd
+   91  ls
+   92  cd "week02"
+   93  ls
+   94  cd ..
+   95  ls
+   96  touch READ.md
+   97  ls
+   98  ls -l
+   99  pwd
+  100  mkdir -p ~/forgetting-agent/week01
+  101  cd ~/forgetting-agent/week01
+  102  pwd
+  103  touch scanner.py
+  104  ls
+  105  code scanner.py
+  106  python3 scanner.py
+  107  clear
+  108  ls
+  109  cd ..
+  110  ls
+  111  pwd
+  112  cd coding-cafe/
+  113  code notes.md
+  114  cd week02
+  115  ls
+  116  code notes.md
+  117  clear
+  118  ls
+  119  code notes.md
+  120  pwd
+  121  mkdir linux-practice
+  122  pwd
+  123  cd linux-practice
+  124  pwd
+  125  touch file1.txt1
+  126  touch file2.txt2
+  127  touch file3.txt3
+  128  ls
+  129  rm file3.txt3
+  130  ls
+  131  pwd
+  132  cd linux-practice
+  133  ls
+  134  rm file2.txt2
+  135  ls
+  136  rm file1.txt1
+  137  ls
+  138  rm -r linux-practice
+  139  pwd
+  140  cd ..
+  141  rm -r linux-practice
+  142  pwd
+  143  ls
+  144  clear
+  145  cd coding-cafe/
+  146  cd week02
+  147  ls
+  148  code notes.md
+  149  clear
+  150  ls
+  151  cd coding-cafe/
+  152  ls
+  153  code .
+  154  code 
+  155  pwd
+  156  code notes.md
+  157  cd coding-cafe/
+  158  ls
+  159  code notes.md
+  160  ls
+  161  code notes.md
+  162  cp READ.md READ-backup.md
+  163  echo $PATH
+  164  which python3
+  165  which pip
+  166  ls
+  167  pyton3
+  168  cd ~/coding-cafe/
+  169  python3 -m venv .venv
+  170  ls
+  171  ls -a
+  172  source .venv/bin/activate
+  173  which python3
+  174  pip list
+  175  pip install request
+  176  pip list
+  177  pip install requests
+  178  pip list
+  179  deactivate
+  180  which python
+  181  ls
+  182  ls -a
+  183  man ls
+  184  ls -h
+  185  python3
+  186  clear
+  187  cd ~/coding-cafe/
+  188  ls
+  189  touch notes.md
+  190  ls
+  191  code notes.md
+  192  rm notes.md
+  193  ls
+  194  cd week02
+  195  pwd
+  196  touch notes.md
+  197  code notes.md
+  198  find ~ -name "notes.md" 2>/dev/null
+  199  clear
+  200  history > week02/lab01-log.txt
+  201  cd ~/coding-cafe/
+  202  ls
+  203  cd week02
+  204  history > week02/lab01-log.txt
+  205  ls
+  206  mkdir lab
+  207  history > week02/lab-log.txt
+  208  pwd
+  209  history > lab/log.txt
