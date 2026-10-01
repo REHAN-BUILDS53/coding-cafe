@@ -31,27 +31,3 @@ Git can be understood using a three-place model: the working directory, the stag
 ## Question 8 — Name and purpose of the first seven characters of a commit hash
 
 The first seven characters are a shortened form of the commit hash, also called the short commit ID. They identify a particular commit and provide a convenient way for humans to refer to it.
-
-## Question 9 — The 4 steps of the repetitive Git loop
-
-The four steps are: edit, stage, commit, and repeat. First, make changes to files. Second, use `git add` to stage the changes. Third, use `git commit` to save a snapshot in the repository. Finally, repeat the process as the project develops.
-
-## Question 10 — Special purpose and placement of `README.md`
-
-`README.md` is the main introductory and documentation file for a repository. It usually explains what the project is, how to use or run it, and other important information. It is normally placed in the root directory of the repository so GitHub can automatically display it on the repository's front page.
-
-## Question 11 — How `gh auth login` eliminates future password prompts
-
-`gh auth login` authenticates the GitHub CLI with a GitHub account. After successful authentication, the authentication information is stored securely, allowing GitHub CLI operations to use the authenticated account without repeatedly asking for a password.
-
-## Question 12 — File rendered on GitHub's front page and the reason why
-
-GitHub automatically renders the repository's `README.md` on the repository's front page. This is because `README.md` is conventionally used as the main documentation and introduction for a repository, and GitHub renders its Markdown formatting into a readable webpage.
-
-## Question 13 — Effect of `git push` on local history
-
-`git push` sends committed changes from the local repository to the remote repository, such as GitHub. It does not create a new commit or change the existing local commit history. The local commits already exist; `git push` transfers those commits to the remote repository.
-
-## Question 14 — Distinction between a private repository vs. no repository on GitHub
-
-A private repository exists on GitHub, but its contents are restricted to people who have permission to access it. Having no repository on GitHub means there is no remote GitHub repository for the project. A local Git repository can exist without any GitHub repository. Creating a GitHub repository and pushing the local repository establishes the remote copy.
